@@ -76,3 +76,13 @@ sendGlowData(func,group,id,command);
 
 ##### コマンド
 GLOWの0x0011、0x000a、0x000b といった様に光パターンを指定します。
+
+## GLOWの設定
+
+GLOWは最初にグループIDとデバイスIDを設定する必要があります。<br>
+設定には GLOW SDK アプリが便利です。
+
+具体的な設定方法については以下のビデオを参照してください。
+
+https://youtu.be/-QoyVQH0mNI
+
