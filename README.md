@@ -80,7 +80,10 @@ GLOWの0x0011、0x000a、0x000b といった様に光パターンを指定しま
 ## GLOWの設定
 
 GLOWは最初にグループIDとデバイスIDを設定する必要があります。<br>
-設定には GLOW SDK アプリが便利です。
+設定はスマートフォンから簡単に行えます。 
+
+- GLOW SDK for Android (https://play.google.com/store/apps/details?id=com.gadgetlabo.glow_sdk2)
+- GLOW SDK for iOS (https://apps.apple.com/us/app/glow-sdk/id1575874546?ign-itsct=apps_box_link&ign-itscg=30200)
 
 具体的な設定方法については以下のビデオを参照してください。
 
