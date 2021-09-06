@@ -2,7 +2,7 @@
 ## M5StickCを使ってGLOWをコントロールする
 ##### プログラムの内容
 M5StickCからGLOWを直接コントロールできます。
-'''
+<pre>
 test
 test
-'''
+</pre>
