@@ -1,3 +1,4 @@
 # GLOW_M5StickC_BLE
- GLOW control via BLE<br>
+## M5StickCを使ってGLOWをコントロールする
+##### プログラムの内容
  M5StickCからGLOWを直接コントロールできます。
