@@ -2,7 +2,6 @@
 ## M5StickCを使ってGLOWをコントロールする
 ##### プログラムの内容
 M5StickCからGLOWを直接コントロールできます。
-
 以下のように設定します。
 - function -- ファンクション
 - group -- GLOWのグループID
