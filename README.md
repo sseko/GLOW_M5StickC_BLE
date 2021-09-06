@@ -3,11 +3,11 @@
 ##### プログラムの内容
 M5StickCからGLOWを直接コントロールできます。
 
-以下のように
-- function
-- group
-- id
-- command
+以下のように設定します。
+- function -- ファンクション
+- group -- GLOWのグループID
+- id -- GLOWのデバイスID
+- command -- コマンド
 
 <pre>
 uint32_t function;
